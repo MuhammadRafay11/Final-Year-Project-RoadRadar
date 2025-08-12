@@ -1,0 +1,4 @@
+# ROADRADAR: IOT‑DRIVEN ROAD DAMAGE DETECTION AND REPORTING (FYP)
+
+Developed an IoT‑based system for automated road damage detection and reporting, integrating deep learning (YOLOv5n) and IoT devices (Raspberry Pi) to identify potholes and cracks in real‑time video streams. Preprocessed video data, extracted features, and trained a lightweight model for accurate anomaly detection, coupled with a responsive React.js and Next.js frontend and Firebase backend for real‑time visualization on a Mapbox dashboard. Automated GPS‑tagged damage reporting to enhance infrastructure management, demonstrating expertise in AI, IoT
+integration, and full‑stack development.
